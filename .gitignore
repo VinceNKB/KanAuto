@@ -1,0 +1,6 @@
+/*
+!/.gitignore
+!/KanAuto
+/KanAuto/*
+!/KanAuto/*.cpp
+!/KanAuto/*.h
